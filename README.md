@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)](https://Kumar-dev1.io)
+[![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)](https://kumarnaidukarri.io)
 
 <h1 align="center">Hi, I'm Kumar Naidu Karri </h1>
 <h3 align="center">A passionate full stack developer from India</h3>
@@ -15,6 +15,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kumar-dev1&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Kumar-dev1&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=kumarnaidukarri&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
